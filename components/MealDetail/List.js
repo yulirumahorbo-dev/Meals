@@ -1,5 +1,4 @@
 import { View, Text, StyleSheet } from "react-native";
-import MealItem from "../MealItem";
 
 function List({ data }) {
   return data.map((dataPoint) => (
