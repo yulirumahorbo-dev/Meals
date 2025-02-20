@@ -1,4 +1,4 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet, Button } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import CategoriesScreen from "./screens/CategoriesScreen";
 import { NavigationContainer, DefaultTheme } from "@react-navigation/native";
